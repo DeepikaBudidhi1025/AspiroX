@@ -18,8 +18,6 @@ AspiroX aims to make career exploration more structured and accessible by bringi
 - Evaluates users' abilities and preferences through multiple-choice questions.
 - Helps users understand their strengths and career interests.
 <img width="1408" height="807" alt="Screenshot 2026-11-20 at 2 54 53 PM" src="https://github.com/user-attachments/assets/3a9506cf-1bed-4890-aace-1fcc5a6c1408" />
-<img width="1433" height="778" alt="Screenshot 2026-11-20 at 2 54 39 PM" src="https://github.com/user-attachments/assets/cbb2f299-a090-4037-bb92-b34cf7eb74ae" />
-
 
 
 ### 2. Duel – Career Comparison
